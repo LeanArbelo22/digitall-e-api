@@ -1,0 +1,4 @@
+/node_modules
+/http-requests
+.env
+test-teardown-globals.js
